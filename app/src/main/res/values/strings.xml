@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMarcianoMundo</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="mensajeboton">Entrar</string>
+</resources>
